@@ -4,7 +4,7 @@
 
     <groupId>de.dynamicfiles.projects.minecraft</groupId>
     <artifactId>nbt4j</artifactId>
-    <version>1.2</version>
+    <version>1.3-SNAPSHOT</version>
 
     <packaging>jar</packaging>
 
